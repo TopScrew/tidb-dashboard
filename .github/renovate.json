@@ -15,6 +15,5 @@
       "matchPackagePatterns": ["*"]
     }
   ],
-  "osvVulnerabilityAlerts": true,
   "baseBranches": ["master", "release"]
 }
