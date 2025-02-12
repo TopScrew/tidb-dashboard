@@ -40,7 +40,7 @@
     "chalk": "4.1.2",
     "chokidar": "^3.5.2",
     "dotenv": "^16.0.1",
-    "esbuild": "^0.14.23",
+    "esbuild": "^0.25.0",
     "esbuild-plugin-svgr": "^1.0.0",
     "esbuild-plugin-yaml": "^0.0.1",
     "eslint-watch": "^8.0.0",

@@ -67,7 +67,7 @@
     "cypress-real-events": "^1.7.0",
     "dayjs": "^1.10.8",
     "dotenv": "^16.0.1",
-    "esbuild": "^0.14.23",
+    "esbuild": "^0.25.0",
     "esbuild-plugin-svgr": "^1.0.0",
     "esbuild-plugin-yaml": "^0.0.1",
     "eslint-plugin-cypress": "^2.12.1",
